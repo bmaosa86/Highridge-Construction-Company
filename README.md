@@ -8,7 +8,7 @@ This repository contains Python and R scripts to generate payment slips for work
 - `worker_payments.R`: R script to generate payment slips.
 
 ## How to Run
-1. Install Python (version 3.x) and R (version 4.x) on your system.
+1. Install Python (version 3.12.5) and R (version 4.4.1) on your system.
 2. Run `worker_payments.py` using `python worker_payments.py`.
 3. Run `worker_payments.R` using an R environment.
 
